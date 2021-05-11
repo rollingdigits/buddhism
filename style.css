@@ -4,3 +4,19 @@ body {
     font-family: 'Nanum Barun Gothic', sans-serif;
     line-height: 1.5;
 }
+
+h1 {
+    padding: 9px;
+}
+
+h2 {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 6px;
+}
+
+h3 {
+    display: inline;
+    border-bottom: 1px solid black;
+    padding: 3px;
+}
