@@ -1,8 +1,17 @@
 @import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
+.nav {
+    display: inline-block;
+    padding: 3px;
+}
+
 body {
     font-family: 'Nanum Barun Gothic', sans-serif;
     line-height: 1.5;
+}
+
+a {
+    text-decoration: none;
 }
 
 h1 {
@@ -16,7 +25,14 @@ h2 {
 }
 
 h3 {
-    display: inline;
-    border-bottom: 1px solid black;
     padding: 3px;
+    text-decoration: underline;
+    text-underline-position: under;
+}
+
+table, th, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
 }
