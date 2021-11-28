@@ -1,9 +1,13 @@
 @import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
+#nav {
+    background-color: lightgreen;
+}
+
 .nav {
     display: inline-block;
     padding: 3px;
-    background-color: white;
+    background-color: lightgreen;
 }
 
 .nav:hover {
