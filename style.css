@@ -1,4 +1,5 @@
-@import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
+/* @import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css); */
+@import url(http://www.openhiun.com/hangul/nanumbarungothic.css);
 
 #nav {
     background-color: lightgreen;
